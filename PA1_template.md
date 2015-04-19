@@ -283,3 +283,5 @@ ggplot(data_weekdays, aes(x=interval, y=steps)) +
 
 ![](PA1_template_files/figure-html/unnamed-chunk-13-1.png) 
 
+We observe that activity on the weekdays and weekends differ. Activities on weekdays mostly follow a work related routine, with peaks in the morning between 7 and 9. At weekend we can see better distribution of effort along the time, but the level of activities remain higher than that of the weekdays.
+## End of the peer assessment 1
